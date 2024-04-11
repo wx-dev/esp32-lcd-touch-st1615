@@ -1,0 +1,8 @@
+dependencies:
+  esp_lcd_touch:
+    public: true
+    version: ^1.0.4
+  idf:
+    version: '>=4.4.2'
+description: ESP LCD Touch ST1615 - touch controller ST1615
+version: 1.0.0
