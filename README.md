@@ -22,3 +22,7 @@
 |I2C TP_RST| GPIO 41/NC  |
 |I2C TP_TINT| GPIO 42/NC  |
 
+## 效果
+![1](https://github.com/wx-dev/esp32-lcd-touch-st1615/assets/81051506/f979081b-f0bc-42d3-8f35-e6d5634b0104)
+![2](https://github.com/wx-dev/esp32-lcd-touch-st1615/assets/81051506/92c7141b-04ec-4dbe-acd6-11b4db641328)
+![3](https://github.com/wx-dev/esp32-lcd-touch-st1615/assets/81051506/9a871871-470a-4f23-a3a8-5018f35ea9d6)
