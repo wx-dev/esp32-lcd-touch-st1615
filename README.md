@@ -17,10 +17,10 @@
 |SPI SCL| GPIO 6      |
 |SPI SDA| GPIO 5      |
 | SPI RESET| GPIO 9      |
-|I2C TP_SCL| GPIO 46     |
-|I2C TP_SDA| GPIO 45     |
-|I2C TP_RST| GPIO 41/NC  |
-|I2C TP_TINT| GPIO 42/NC  |
+|I2C TP_SCL| GPIO 16     |
+|I2C TP_SDA| GPIO 15     |
+|I2C TP_RST| GPIO 18/NC  |
+|I2C TP_TINT| GPIO 17/NC  |
 
 ## 效果
 ![1](https://github.com/wx-dev/esp32-lcd-touch-st1615/assets/81051506/f979081b-f0bc-42d3-8f35-e6d5634b0104)

@@ -34,10 +34,10 @@
 #define EXAMPLE_PIN_NUM_LCD_RST         (GPIO_NUM_9)   /* GPIO number for SPI RESET*/
 
 #define I2C_MASTER_NUM                  0               /* I2C master i2c port number */
-#define I2C_MASTER_SCL_IO               (GPIO_NUM_46)    /* GPIO number used for I2C master clock */
-#define I2C_MASTER_SDA_IO               (GPIO_NUM_45)    /* GPIO number used for I2C master data  */
-#define EXAMPLE_LCD_TOUCH_RST           (GPIO_NUM_41)    /* GPIO number used for touch pad reset pin */
-#define EXAMPLE_LCD_TOUCH_INT           (GPIO_NUM_42)    /* GPIO number used for touch pad interrupt pin */
+#define I2C_MASTER_SCL_IO               (GPIO_NUM_16)    /* GPIO number used for I2C master clock */
+#define I2C_MASTER_SDA_IO               (GPIO_NUM_15)    /* GPIO number used for I2C master data  */
+#define EXAMPLE_LCD_TOUCH_RST           (GPIO_NUM_18)    /* GPIO number used for touch pad reset pin */
+#define EXAMPLE_LCD_TOUCH_INT           (GPIO_NUM_17)    /* GPIO number used for touch pad interrupt pin */
 #define I2C_MASTER_FREQ_HZ              400 * 1000      /*!< I2C master clock frequency */
 
 #define EXAMPLE_LVGL_BUFFER_SIZE        EXAMPLE_LCD_H_RES * 50 * sizeof(lv_color_t)     /*!< LVGL buffer size */
